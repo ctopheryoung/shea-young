@@ -2,6 +2,10 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
+
+#registry-links {
+  padding-top: 20px;
+}
 .text-muted {
     color: #777
 }

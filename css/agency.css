@@ -241,7 +241,6 @@ header .intro-text {
     padding-bottom: 250px;
 }
 header .intro-text .intro-lead-in {
-    display: none;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 22px;
